@@ -2,5 +2,7 @@
     "title":"eirowarn的个人博客",
     "subTitle":"这是eirowarn的个人博客",
     "avatarUrl":"https://gitea.com/eirowarn/Picture-bed/raw/branch/main/eirowarn%E7%9A%84%E5%A4%B4%E5%83%8F.png",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"
 }
