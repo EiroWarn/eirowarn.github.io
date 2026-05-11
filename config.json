@@ -1,6 +1,9 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"eirowarn",
+    "subTitle":"这里是eirowarn的个人博客",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "startSite":"05/11/2026",
+    "singlePage":["link","about"],
+    "needComment":1
 }
